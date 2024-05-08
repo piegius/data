@@ -1,0 +1,5 @@
+Codice;Nome;Prezzo
+1;Mouse;5
+2;Tastiera;10
+3;Monitor;15
+4;SSD;50
