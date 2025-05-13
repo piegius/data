@@ -3,3 +3,14 @@ Codice;Nome;Prezzo
 2;Tastiera;10
 3;Monitor;15
 4;SSD;50
+5;CPU;200
+6;Scheda Madre;120
+7;RAM 8GB;40
+8;Scheda Video;300
+9;Alimentatore;60
+10;Dissipatore;25
+11;Case;55
+12;Hard Disk 1TB;45
+13;Ventola;8
+14;Masterizzatore DVD;20
+15;Hub USB;12
